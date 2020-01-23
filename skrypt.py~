@@ -1,0 +1,4 @@
+ from os import system
+while 1:
+	system("./testerka > in.in")
+	system("./kompresja < in.in")
